@@ -58,7 +58,12 @@ doggo.bark()
 doggo.what_color()
 doggo.eat("banana")
 print(doggo.diet)
-# print(doggo.diet)
+
+catty = Cat('Sarah', "Tabby", "Orange")
+catty.check_has_claws()
+catty.meow()
+catty.eat('sushi')
+print(catty.diet)
 
 # 7 Create a new instance of the dog class and test your methods.
 
